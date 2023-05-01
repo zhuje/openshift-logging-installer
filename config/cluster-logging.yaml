@@ -10,4 +10,4 @@ spec:
     lokistack:
       name: lokistack-sample
     type: lokistack
-  managementState: Unmanaged
+  managementState: Managed
